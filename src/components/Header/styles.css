@@ -1,0 +1,25 @@
+header {
+  background-color: var(--myproject-color-bg-secondary);
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 70px;
+}
+
+.myproject-header-container {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.myproject-menus {
+  color: var(--myproject-color-font-primary);
+}
+
+.myproject-menus-item {
+  margin-right: 20px;
+}
+
+.myproject-home-icon img {
+  width: 30px;
+  height: 30px;
+}

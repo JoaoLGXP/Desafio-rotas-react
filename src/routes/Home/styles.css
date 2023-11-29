@@ -1,0 +1,12 @@
+#myproject-home-section {
+  margin-top: 20px;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+main h1 {
+  font-size: 24px;
+}

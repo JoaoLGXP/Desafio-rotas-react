@@ -1,4 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+
 :root {
-  color: aqua;
+  --myproject-color-bg-primary: #FFF;
+  --myproject-color-bg-secondary: #2D28FF;
+  --myproject-color-bg-tertiary: #C7C7C7;
+
+  --myproject-color-font-primary: #fff;
+  --myproject-color-font-secondary: #000;
 }
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+  color: unset;
+}
+
+html,
+body {
+  background-color: var(--myproject-color-bg-primary);
+}
+
+nav {
+  display: flex;
+}
+
+.myproject-container {
+  width: 100%;
+  max-width: 960px;
+  display: flex;
+}
+
 
