@@ -1,9 +1,10 @@
 
-import Products from "./routes/Products";
+import About from "./routes/About";
+
 
 export default function App() {
 
   return (
-   <Products />
+   <About />
   );
 }
