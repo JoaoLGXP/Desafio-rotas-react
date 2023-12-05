@@ -9,4 +9,5 @@ main {
 
 main h1 {
   font-size: 24px;
+  color: var(--myproject-color-font-secondary);
 }

@@ -1,8 +1,9 @@
-import Home from "./routes/Home";
+
+import Products from "./routes/Products";
 
 export default function App() {
 
   return (
-   <Home />
+   <Products />
   );
 }
