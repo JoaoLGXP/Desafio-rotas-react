@@ -1,6 +1,6 @@
 import "./styles.css";
 
-export default function Books () {
+export default function Books() {
     return (
         <div className="myproject-product-list">
             <p>Livro 1</p>

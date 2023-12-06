@@ -1,25 +1,26 @@
 #myproject-products-section {
-    margin-top: 20px;
+  margin-top: 20px;
 }
-  
+
 main {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .myproject-products-menus {
-    width: 100%;
-    height: 60px;
-    background-color: var(--myproject-color-bg-tertiary);
-    display: flex;
-    align-items: center;
-    padding-left: 20px;
+  width: 100%;
+  height: 60px;
+  background-color: var(--myproject-color-bg-tertiary);
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
 }
 
 .myproject-product {
-    margin-right: 20px;
+  margin-right: 20px;
 }
 
-.temporario {
-    width: 100%;
+.myproject-organizer-menus {
+  width: 100%;
 }

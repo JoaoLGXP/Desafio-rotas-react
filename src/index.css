@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
 
 :root {
-  --myproject-color-bg-primary: #FFF;
-  --myproject-color-bg-secondary: #2D28FF;
-  --myproject-color-bg-tertiary: #C7C7C7;
+  --myproject-color-bg-primary: #fff;
+  --myproject-color-bg-secondary: #2d28ff;
+  --myproject-color-bg-tertiary: #c7c7c7;
 
   --myproject-color-font-primary: #fff;
   --myproject-color-font-secondary: #000;
@@ -37,4 +37,6 @@ nav {
   display: flex;
 }
 
-
+.myproject-active {
+  font-weight: 700;
+}

@@ -1,6 +1,6 @@
 import "./styles.css";
 
-export default function Eletronics () {
+export default function Eletronics() {
     return (
         <div className="myproject-product-list">
             <p>Eletrônico 1</p>
